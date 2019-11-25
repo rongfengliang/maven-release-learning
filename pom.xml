@@ -4,7 +4,7 @@
 
     <groupId>com.dalong</groupId>
     <artifactId>env-demo</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <encoding>UTF-8</encoding>
@@ -14,7 +14,7 @@
     </properties>
     <scm>
         <developerConnection>scm:git:https://github.com/rongfengliang/maven-release-learning.git</developerConnection>
-    <tag>env-demo-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
     <build>
         <plugins>
